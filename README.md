@@ -1,5 +1,4 @@
 # spam momo
-# How to run
-$ chạy file spam-momo.py
+# run
+$ python spam-momo.py or python3 spam-momo.py
 
-$ nhập sđt cần spam
